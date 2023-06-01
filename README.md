@@ -3,4 +3,4 @@ Knock-Out!! The Custom Boxing Game
 
 <br>
 
-pls don't sue Nintendo
+pls don't sue me Nintendo
